@@ -5,10 +5,10 @@
     "product": "BSI_BCS",
     "licenses": {
       "215ea6c759aad6430881583f3dfd8980466845782bf6d361b29e8e3f2ae30fea": {
-        "enabled": true,
+        "enabled": false,
         "expires": "2027-09-17T23:59:59Z"
       }
     }
   },
-  "signature": "q2jgf1KySElMtMDnlX3wHrLokhGmJbtqfo/V5/3QIo82uweFgroRJ+2ljGMb/QVQl+Tr1GxihHaBwQ6n2/r9KLe7H6dPt8juOSwW/4NkAi61ldqnYCgiytgr49NKzYrOuh7csbTlPFZc4BMSa8RXnpSLiTWuBWoFjCSXz+kHgeSeOnl9vLIwiN/pQGEoUYHgphUjOt81g5BRBIHTIAB2dHpzYKJ2vvfeRPRSXKrSPqajZCEz1PAIyGEbzftNzBXH9DbjLoGUQarzi2X/hz2cIPzKKXmkfpXi0ZCtOh0AjZrZ/xP/roTkK2s48Or6RdrVXoN0gk6se7N7Z8GjMX9SXA=="
+  "signature": "eWmyJ3Xt7Y//uWG8zvB8EqllOaMa8wUMVzhaBKTMKdmYs1yCmMlmI9jpdIUq6XgIFhZ0NkTDwgop/FUXxVv9tGqF9/aTuA3+pYNdV+/3Ylb1IqoJiDKluWtKpAs2RhJa88JJydI5EYkmhLi4KoMPR5LDbwZ+h0GHDcIVfSLul9suUb3y+65w2iOcw6g2vMVPeR7nTfZ7WAtBFdMrVCZIXw7ZZwe0eXQcZCGwhd+JE7Q+hav/JTmvgA8TwEAcstEsQEZNWTifGfSxiTVlioJ3/AomZVVJbGErzxhd78gPgAJP9h9Xbkbs9XKZN/gffFl1p6/1Vz1r4vlOtxcS4cWshg=="
 }
