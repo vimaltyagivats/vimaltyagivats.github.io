@@ -6,9 +6,25 @@
     "licenses": {
       "215ea6c759aad6430881583f3dfd8980466845782bf6d361b29e8e3f2ae30fea": {
         "enabled": true,
-        "expires": "2025-09-17T23:59:59Z"
+        "expires": "2027-09-17T23:59:59Z",
+        "max_machines": 10000000
+      },
+      "17efb4151a2a5f473fa28404dcfbcec7709adb33d2e10573fe70fe4c410d64d2": {
+        "enabled": true,
+        "expires": "2027-09-17T23:59:59Z",
+        "max_machines": 1
+      },
+      "1f91234049145840d7d132170a85249a94dce75764f3b646f294569a059f47e0": {
+        "enabled": true,
+        "expires": "2027-09-17T23:59:59Z",
+        "max_machines": 2
+      },
+      "5f39500c7f2ec4c9163db91a7c1420c022f35dcf5a6a87818b148fb65f26662e": {
+        "enabled": true,
+        "expires": "2027-09-17T23:59:59Z",
+        "max_machines": 2
       }
     }
   },
-  "signature": "UvkRTDKdIZUb2FT8SGGY27wKyY+RIXewY41pW1nWpNlYIFcnIX3JD7o0LQpelBVCp5rWlnucZ3qzgc3jt4Ds7m8HcTjjb+2Z3HQfamlzafe3y/vFsXyTdz4gckeVL9QQxWf1wRg95x/smAWSzrW+iL+KOQLVwPuNQLjwIe1nHFDGHAW21JAYZuNw8WdEcnOI76/lL51uHE02wf5dCQ4sayfo946DKpafHdHZfCKc8JNL18MChPqViJaGMM3uh70PTHxKkakrE5YSCVYW/ZKmg/vRJnv0DPRRW4hbXVOPu+TxTY/IRPBemJgoGT+zGWxy0q7cIw+rN3tVoDfkBkJMNA=="
+  "signature": "xoI5uE/somnjsJ7S+im8WvFvb421VQCXU1YzE0kI614ipm2j4bQQhocYpFDjsiqzF/oOEKj4iR9RTbRYu5npv/2IbZYF8j0+GL7lvB9MdKET3T/BTYgIfln/tVPY8/Fpk7xNGR5iY1E4zSRWlq6RVG3R6vXLL4OKDJUrufaBwrZ1/ic8RGHte4TugfxrJdUs1Mdc9k3cmH+YrbXFX69MtuTmAyexSGQFhhDR8f3B1U3ph7gzL2ggN8OJGwgxzmQSHWJS29QAjjTN1ur/n1sEDI5+Z7yqDe/Qd9ra4BvSilgyyYk2jgWMjSEogoDy91JJzgXoVHNNV80qkf3KsjEp8Q=="
 }
