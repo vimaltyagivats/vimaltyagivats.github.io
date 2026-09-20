@@ -12,7 +12,7 @@
       "17efb4151a2a5f473fa28404dcfbcec7709adb33d2e10573fe70fe4c410d64d2": {
         "enabled": true,
         "expires": "2027-09-17T23:59:59Z",
-        "max_machines": 1
+        "max_machines": 1000
       },
       "1f91234049145840d7d132170a85249a94dce75764f3b646f294569a059f47e0": {
         "enabled": true,
@@ -26,5 +26,5 @@
       }
     }
   },
-  "signature": "xoI5uE/somnjsJ7S+im8WvFvb421VQCXU1YzE0kI614ipm2j4bQQhocYpFDjsiqzF/oOEKj4iR9RTbRYu5npv/2IbZYF8j0+GL7lvB9MdKET3T/BTYgIfln/tVPY8/Fpk7xNGR5iY1E4zSRWlq6RVG3R6vXLL4OKDJUrufaBwrZ1/ic8RGHte4TugfxrJdUs1Mdc9k3cmH+YrbXFX69MtuTmAyexSGQFhhDR8f3B1U3ph7gzL2ggN8OJGwgxzmQSHWJS29QAjjTN1ur/n1sEDI5+Z7yqDe/Qd9ra4BvSilgyyYk2jgWMjSEogoDy91JJzgXoVHNNV80qkf3KsjEp8Q=="
+  "signature": "qX2Br8yWTLhbHCsFEo0H2eOECpZ41DtG06Uev2Fz0eAK2xZcKXitHl6hrR/89MyGaQRFA+bSCYdDyYyyXPLpwje9gABBlh55rck/lzMEd+34ll0bjYTokX+5AVSBIIi4SNylMRj8qqAVp+nbHNqtUhUed1/WJy2yibnWm9m6I5W2KHm+XwBKAFzho+BdcDd64+S2iLbriSgIcJfe9BM7crTMP48Ze6pYqxjISDgzXfmtMstgaLd+4JW+NGk/5XMXSChTQmAjkoJ71yrkRU6Lvv1quIMQDDiQsUc/LGj0pVjnlfMCmM138YjtgZ9hH+R9PcqMb0JrSJVZL4+jEy7XAw=="
 }
