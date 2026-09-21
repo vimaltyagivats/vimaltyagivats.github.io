@@ -7,29 +7,38 @@
       "8bfcbd831506714de9d58e5a7bd92abe6499e5a3d8b7e3add91d6e57e6a15e4c": {
         "enabled": true,
         "expires": "2027-09-17T23:59:59Z",
-        "max_machines": 10000000
+        "max_machines": 10000000,
+        "customer": "VIMAL_TYAGI_VATS"
       },
       "4f02b696248c9d59dcc875ce277c4764346c8fa62cd2d9763efff898938c76cc": {
         "enabled": true,
         "expires": "2027-09-17T23:59:59Z",
-        "max_machines": 1000
+        "max_machines": 1000,
+        "customer": "ASAT"
       },
       "9bd95d0c52846515f77201528bd7d776d8b550dccd606821fad9687b40bab948": {
         "enabled": true,
         "expires": "2027-09-17T23:59:59Z",
-        "max_machines": 2
+        "max_machines": 2,
+        "customer": "ASGI"
       },
       "7500425b1f97c22cea693ac5579368c573cb3c8a53aa863a3f3ea5709fb9eb9f": {
         "enabled": true,
         "expires": "2027-09-17T23:59:59Z",
-        "max_machines": 2
+        "max_machines": 2,
+        "customer": "ABSI"
       },
       "01e80d0519d4c049c8f9fbfeb7aeae8194081b8d88c9f7725549f93ea04585e7": {
         "enabled": true,
         "expires": "2027-09-17T23:59:59Z",
-        "max_machines": 2
+        "max_machines": 2,
+        "customer": "AUniversal"
       }
     }
+  },
+  "signature": "jffMVymF0ilm/DW3tHpeuvI66AOHPX6VrWtccnRJYe5MsX6W5FeIAiXIQ6EZtBYk6cDS7PCyhe2JWHdxH8UJVhkflDEJdOyqR+1zgIMWE5diPq4w0yw72hmYdAXe6dP6zR9v/cRlsexD19kQPNsw1ko2MLfSTG1XdCDhO1OR9+roe61wXp0rKdz0Fv09aM64C+dfV3LgQ+hSu1Qd0T1s75C8lO6Jfyo68CYvoPKcnxARV466C50VtrakQPyW2Jk/Y1JHTD4bBIvV4oW8oQQ+YZG9F2klaTcmVO0HtMYP3JQQZBM1ZiW9kGihwIfFN1sUbOWP8bGIbNVeTkw9vorU7A=="
+}
+
   },
   "signature": "wIDZfYXEuCnt4sS13WE3e+L3w6ThiuxTpX2sOBk58FnXqyhvU08lF7IlVULoGIWAnKf4XENFSC4v2tkl6YnYRvJXKZI5mChNl8QQ1wtHVw8lPa0r4mDpLOG+2wAhpl1tdOJYR8GxhMypOAOws7PtBkp36iX0ND+CkFMNlUxYHCrPpOaAleMXcFR7Z2VCFevpP2DCps87RKFPgeMFpyOB7QjU4fxymPl+PV2iurzYZNWqY1h5bRTnxCw6GsT17sqmkvUa+HachdNkv4j3RrHa1YckV6Bnn/CGlEovh7inIGwhB4/kIDdqaioyeYgSI2fQy9CFa2OrVsogyV+W1hOxYw=="
 }
