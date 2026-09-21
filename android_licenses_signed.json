@@ -1,0 +1,40 @@
+{
+  "algorithm": "RSA-SHA256-PKCS1v1.5",
+  "payload": {
+    "version": 1,
+    "product": "BHARATMI_ANDROID",
+    "licenses": {
+      "97e58782c8cace78da9e859a8485ea8a3c9677f7ab1d0990576bff7d1862eb7e": {
+        "enabled": true,
+        "expires": "2027-09-17T23:59:59Z",
+        "max_machines": 10000000,
+        "customer": "VIMAL_TYAGI_VATS"
+      },
+      "1e145ca0c446a1e2fbebed6b0db95558d603c0e676005a19ab321b113950aa13": {
+        "enabled": true,
+        "expires": "2027-09-17T23:59:59Z",
+        "max_machines": 1000,
+        "customer": "SAT"
+      },
+      "125538acf70298f07bb6abf1d009ff6275447ae1e28a7fc924ea7c124de6a580": {
+        "enabled": true,
+        "expires": "2027-09-17T23:59:59Z",
+        "max_machines": 2,
+        "customer": "SGI"
+      },
+      "d04289f93d596960440e4f53f460897940fd5cf5f4ffdd83352d6d0f8daa4e55": {
+        "enabled": true,
+        "expires": "2027-09-17T23:59:59Z",
+        "max_machines": 2,
+        "customer": "BSI"
+      },
+      "590d0803fc2369b27d9f0cdc7e4f5415376af6d81e1906f223df30babf082ec7": {
+        "enabled": true,
+        "expires": "2027-09-17T23:59:59Z",
+        "max_machines": 2,
+        "customer": "Universal"
+      }
+    }
+  },
+  "signature": "Yx96Pe45j0lGLgeaTa5YVFn3tcmXlEklyaQSIV3MoVslOv3z2S9wNeFlv6SdCb+vg/xmW5DmuiWcVakwxty3cPOnhLU86jIvJmPO7ynqYxl9CQvmBeT1lygUL9nivAK0ph0NP2M4sw7/qFL+uqkTHjNvEtPB1mMuKY6g8XWmayyl7tgxzA+CboJXwyhl0kpG0HAjBiwDCcKBOuEBpbXBPG2g0SgvuCtMMCeqV4XZjuNVqU2OiU2T7E0NKvS1AMhn9CIPOBuB1l4ydX7bgM2N1rOIDTNPLhQs0W1Fi8KpNtpzrA9KSwXGev3mS4u1DidvrZHH/RBzhADEbsXHj74VMA=="
+}
